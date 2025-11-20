@@ -1,0 +1,30 @@
+[
+  {
+    "原文": "Welcome to flatnotes",
+    "翻译": "欢迎使用 flatnotes"
+  },
+  {
+    "原文": "If you enjoy using flatnotes, please",
+    "翻译": "如果你喜欢使用 flatnotes，"
+  },
+  {
+    "原文": "consider sponsoring the project at:",
+    "翻译": "欢迎考虑在以下地址赞助该项目："
+  },
+  {
+    "原文": "It would really make my day",
+    "翻译": "这将会让我非常开心"
+  },
+  {
+    "原文": "Setting file permissions...",
+    "翻译": "正在设置文件权限……"
+  },
+  {
+    "原文": "Starting flatnotes as user",
+    "翻译": "正在启动 flatnotes，以用户"
+  },
+  {
+    "原文": "A user was set by docker, skipping file permission changes.",
+    "翻译": "Docker 已设置了用户，跳过文件权限修改。"
+  }
+]

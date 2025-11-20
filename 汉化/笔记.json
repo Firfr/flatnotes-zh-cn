@@ -1,0 +1,126 @@
+[
+  {
+    "原文": "\"Confirm Deletion\"",
+    "翻译": "\"确认删除\""
+  },
+  {
+    "原文": "Are you sure you want to delete the note",
+    "翻译": "你确定要删除这篇笔记"
+  },
+  {
+    "原文": "label:\"Delete\"",
+    "翻译": "label:\"删除\""
+  },
+  {
+    "原文": "confirmButtonText:\"Delete\"",
+    "翻译": "confirmButtonText:\"删除\""
+  },
+  {
+    "原文": "\"Save Changes\"",
+    "翻译": "\"保存更改\""
+  },
+  {
+    "原文": "\"Do you want to save your changes?\"",
+    "翻译": "\"你要保存所做的更改吗？\""
+  },
+  {
+    "原文": "\"Save\"",
+    "翻译": "\"保存\""
+  },
+  {
+    "原文": "\"Discard\"",
+    "翻译": "\"放弃更改\""
+  },
+  {
+    "原文": "\"Draft Detected\"",
+    "翻译": "\"检测到草稿\""
+  },
+  {
+    "原文": "There is an unsaved draft of this note stored in this browser. Do you want to resume the draft version or delete it?",
+    "翻译": "此浏览器中存储了这篇笔记的未保存草稿。是否继续编辑该草稿，还是删除它？"
+  },
+  {
+    "原文": "\"Resume Draft\"",
+    "翻译": "\"继续草稿\""
+  },
+  {
+    "原文": "\"Delete Draft\"",
+    "翻译": "\"删除草稿\""
+  },
+  {
+    "原文": "\"Title\"",
+    "翻译": "\"标题\""
+  },
+  {
+    "原文": "\"Edit\"",
+    "翻译": "\"编辑\""
+  },
+  {
+    "原文": "Note not found",
+    "翻译": "笔记不存在"
+  },
+  {
+    "原文": "\"Note deleted ✓\"",
+    "翻译": "\"笔记已删除 ✓\""
+  },
+  {
+    "原文": "\"Success\"",
+    "翻译": "\"成功\""
+  },
+  {
+    "原文": "\"Cannot save note without a title.\"",
+    "翻译": "\"没有标题无法保存笔记。\""
+  },
+  {
+    "原文": "\"Invalid\"",
+    "翻译": "\"无效\""
+  },
+  {
+    "原文": "\"A note with this title already exists. Please try again with a new title.\"",
+    "翻译": "\"已存在相同标题的笔记。请使用新标题重试。\""
+  },
+  {
+    "原文": "\"Duplicate\"",
+    "翻译": "\"重复\""
+  },
+  {
+    "原文": "\"Note saved successfully ✓\"",
+    "翻译": "\"笔记保存成功 ✓\""
+  },
+  {
+    "原文": "Uploading attachment",
+    "翻译": "正在上传附件"
+  },
+  {
+    "原文": "\"Attachment uploaded successfully ✓\"",
+    "翻译": "\"附件上传成功 ✓\""
+  },
+  {
+    "原文": "\"An attachment with this filename already exists.\"",
+    "翻译": "\"已存在同名附件。\""
+  },
+  {
+    "原文": "This ${fe} is too large. Please try again with a smaller ${fe} or adjust your server configuration.",
+    "翻译": "此 ${fe} 过大。请尝试更小的 ${fe} 或调整服务器配置。"
+  },
+  {
+    "原文": "\"Failure\"",
+    "翻译": "\"失败\""
+  },
+  {
+    "原文": "Due to filename restrictions, the following characters are not allowed:",
+    "翻译": "由于文件名限制，以下字符不允许使用："
+  },
+  {
+    "原文": "\"Confirm\"",
+    "翻译": "\"确定\""
+  },
+  {
+    "原文": "\"Cancel\"",
+    "翻译": "\"取消\""
+  },
+  {
+    "原文": "default:\"danger\"",
+    "翻译": "default:\"危险\""
+  }
+]

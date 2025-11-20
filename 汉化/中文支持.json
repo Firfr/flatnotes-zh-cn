@@ -1,0 +1,10 @@
+[
+  {
+    "原文": "MARKDOWN_EXT = \".md\"",
+    "翻译": "from jieba.analyse import ChineseAnalyzer\nanalyser = ChineseAnalyzer()\n\nMARKDOWN_EXT = \".md\""
+  },
+  {
+    "原文": "analyzer=StemmingFoldingAnalyzer",
+    "翻译": "analyzer=analyser"
+  }
+]
