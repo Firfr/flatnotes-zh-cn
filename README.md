@@ -42,10 +42,18 @@
     ```bash
     swr.cn-north-4.myhuaweicloud.com/firfe/flatnotes_zh-cn:5.5.4
     ```
+  - ARM64镜像
+    ```bash
+    swr.cn-north-4.myhuaweicloud.com/firfe/flatnotes_zh-cn:5.5.4-arm64
+    ```
 - DockerHub仓库
   - AMD64镜像
     ```bash
     firfe/flatnotes_zh-cn:5.5.4
+    ```
+  - ARM64镜像
+    ```bash
+    firfe/flatnotes_zh-cn:5.5.4-arm64
     ```
 
 ## 部署
